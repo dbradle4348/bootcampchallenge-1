@@ -8,9 +8,9 @@ The next problem I ran into that took me a long while to sort out was the github
 
 Screenshots of the website can be found here at these links:
 
-![image](https://user-images.githubusercontent.com/73002887/97837846-4307e980-1c9c-11eb-84f1-36e57b3b8cbb.png)
+![image](https://user-images.githubusercontent.com/73002887/97838406-5ebfbf80-1c9d-11eb-904c-75acb773d3d6.png)
 
-![image](https://user-images.githubusercontent.com/73002887/97837945-70549780-1c9c-11eb-8f99-cbb1f063c0c9.png)
+![image](https://user-images.githubusercontent.com/73002887/97838390-55ceee00-1c9d-11eb-85ee-c8e89babcdd0.png)
 
 As you can see in the images, the header contains links to the corresponding content of the same name. The deployed application can be found at the following link:
 
